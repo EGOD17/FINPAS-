@@ -1,2 +1,0 @@
-# FINPAS-
-Bank wallet 
